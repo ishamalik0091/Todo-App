@@ -1,4 +1,4 @@
-# Todo-App by Sunny Malik
+# Todo-App by Isha Malik
 ### Simple Flask Todo App
 
 #### Setup
